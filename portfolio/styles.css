@@ -10,6 +10,12 @@ a {
 
 strong {
     color: #EB5E46;
+    border: 1px solid #ED6D7C;
+    padding: 10px;
+}
+
+span {
+    color: #EB5E46;
 }
 
 footer {
