@@ -1,17 +1,33 @@
 body {
+    width: 1100px;
     background-color: #7F15EB;
     color: #F6F6F6;
 }
 
-a {
+body header h1 {
+    padding: 10px 100px;
+    text-align: center;
+}
+
+body section h2 {
+    padding: 10px 100px;
+    text-align: center;
+}
+
+body main img {
+    padding: inherit;
+    margin: auto;
+    width: 200px;
+    display: block;
+}
+
+body article a {
     background-color: #EB5E46;
     color: #F6F6F6;
 }
 
 strong {
     color: #EB5E46;
-    border: 1px solid #ED6D7C;
-    padding: 10px;
 }
 
 span {
@@ -19,5 +35,5 @@ span {
 }
 
 footer {
-    color: #EB5E46
+    color: #F6F6F6
 }
