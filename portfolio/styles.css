@@ -44,4 +44,6 @@ article {
 
 footer {
     text-align: center;
+    clear: left;
+    padding: 25px;
 }
